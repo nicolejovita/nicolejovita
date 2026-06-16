@@ -1,6 +1,6 @@
 # 💻 Nicole Jovita Fernandes
 
-**`Software Engineering Student | Developer | Communication & Marketing`**
+**`Software Engineering Student | Developer | Communication & Marketing Advisor**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nicole-jovita-a14954388/" target="_blank">
