@@ -62,3 +62,11 @@ Additionally, I hold **English proficiency**, strengthened through an internatio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="35" alt="macOS" />
 </p>
+
+<br/>
+
+## 📊 Minhas Contribuições
+
+![Snake animation](https://github.com/mariadenis/mariadenis/blob/output/github-contribution-grid-snake.svg)
+
+</div>
