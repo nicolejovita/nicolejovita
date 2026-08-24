@@ -24,7 +24,9 @@ Throughout my academic journey, I have combined theoretical computer science fou
 
 I have built a solid foundation in **OOP**, **Data Structures**, **Relational Databases**, **Software Requirements**, **UI/UX prototyping**, and **Full-Stack Web Development**.
 
-Additionally, I hold **English proficiency**, strengthened through an international exchange at **Kaplan International Languages in Toronto, Canada (Business English)**, along with **pre-intermediate French**, preparing me to collaborate seamlessly within multicultural and technical environments.
+I have built a solid foundation in **OOP**, **Data Structures**, **Relational Databases**, **Software Requirements**, **Layered Architecture**, **Software Testing** & **QA**, **CI/CD** and **UI/UX Prototyping**.
+
+Additionally, I hold **English proficiency**, strengthened through an international exchange program at **Kaplan International Languages in Toronto, Canada (Business English)**, along with **pre-intermediate French**, preparing me to collaborate seamlessly within multicultural environments.
 <br/>
 
 ## ⚙️ Tools & Technologies
