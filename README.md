@@ -67,8 +67,15 @@ Additionally, I hold **English proficiency**, strengthened through an internatio
 
 <br/>
 
-## 📊 Minhas Contribuições
+<div>
 
-![Snake animation](https://github.com/mariadenis/mariadenis/blob/output/github-contribution-grid-snake.svg)
+## 💻 GitHub Stats
 
-</div>
+<!-- START_SECTION:github_stats -->
+- **Repos:** 7 {Contributed: 23} | **Stars:** 2 | **Followers:** 6
+- **Commits:** 504 | **Merged PRs:** 26 | **Code Reviews:** 22
+- **Issues:** 3 Open | 28 Closed
+- **Top Languages:** Python 50.8% | HTML 15.0% | TypeScript 13.2% | JavaScript 9.1% | CSS 3.8%
+- **Lines of Code on GitHub:** 194,648 (245,230++, 50,582--)
+- **Member since:** 1 yr, 10 mos
+<!-- END_SECTION:github_stats -->
