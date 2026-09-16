@@ -23,8 +23,6 @@ Throughout my academic journey, I have combined theoretical computer science fou
 * **Junior Enterprise Experience:** Member at **Orc'estra (Software Engineering Junior Enterprise)**, participating in cross-functional agile teams to deliver web applications and prototype UI/UX solutions for real clients.
 * **Technical Initiatives & Projects:** Experienced in engineering end-to-end full-stack applications—ranging from graph-based NLP recommendation systems, investor-matching platforms, and volunteer management systems to OOP desktop applications and responsive lead-generation web pages.
 
-I have built a solid foundation in **OOP**, **Data Structures**, **Relational Databases**, **Software Requirements**, **UI/UX prototyping**, and **Full-Stack Web Development**.
-
 I have built a solid foundation in **OOP**, **Data Structures**, **Relational Databases**, **Software Requirements**, **Layered Architecture**, **Software Testing** & **QA**, **CI/CD** and **UI/UX Prototyping**.
 
 Additionally, I hold **English proficiency**, strengthened through an international exchange program at **Kaplan International Languages in Toronto, Canada (Business English)**, along with **pre-intermediate French**, preparing me to collaborate seamlessly within multicultural environments.
