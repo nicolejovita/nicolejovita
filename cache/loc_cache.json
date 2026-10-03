@@ -948,10 +948,10 @@
     "commits": 114
   },
   "nicolejovita/nicolejovita": {
-    "total_count": 33,
-    "adds": 2013,
-    "dels": 278,
-    "commits": 33
+    "total_count": 34,
+    "adds": 2023,
+    "dels": 288,
+    "commits": 34
   },
   "UnBArqDsw2026-2-Turma01/RepositorioTemplateEntrega1": {
     "total_count": 34,
@@ -1098,7 +1098,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-GameDuo": {
-    "total_count": 58,
+    "total_count": 62,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1168,5 +1168,11 @@
     "adds": 0,
     "dels": 0,
     "commits": 0
+  },
+  "code50/188686795": {
+    "total_count": 25,
+    "adds": 651,
+    "dels": 344,
+    "commits": 25
   }
 }
