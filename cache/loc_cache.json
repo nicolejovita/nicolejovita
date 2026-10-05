@@ -948,10 +948,10 @@
     "commits": 114
   },
   "nicolejovita/nicolejovita": {
-    "total_count": 35,
-    "adds": 2037,
-    "dels": 296,
-    "commits": 35
+    "total_count": 36,
+    "adds": 2047,
+    "dels": 306,
+    "commits": 36
   },
   "UnBArqDsw2026-2-Turma01/RepositorioTemplateEntrega1": {
     "total_count": 34,
@@ -1050,7 +1050,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-FutBoard": {
-    "total_count": 117,
+    "total_count": 124,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1068,7 +1068,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-ClinicaEscolaFBr": {
-    "total_count": 95,
+    "total_count": 101,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1080,7 +1080,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-202562-T02-TSI-AutoPecas": {
-    "total_count": 30,
+    "total_count": 37,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1098,7 +1098,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-GameDuo": {
-    "total_count": 66,
+    "total_count": 68,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1174,5 +1174,11 @@
     "adds": 651,
     "dels": 344,
     "commits": 25
+  },
+  "UnBArqDsw2026-2-Turma01/2026.2-T01-_G6_ProjetoStreamingVideo_Entrega_03": {
+    "total_count": 1,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
   }
 }
