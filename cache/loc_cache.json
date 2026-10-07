@@ -948,10 +948,10 @@
     "commits": 114
   },
   "nicolejovita/nicolejovita": {
-    "total_count": 37,
-    "adds": 2063,
-    "dels": 316,
-    "commits": 37
+    "total_count": 38,
+    "adds": 2078,
+    "dels": 325,
+    "commits": 38
   },
   "UnBArqDsw2026-2-Turma01/RepositorioTemplateEntrega1": {
     "total_count": 34,
@@ -1068,19 +1068,19 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-ClinicaEscolaFBr": {
-    "total_count": 103,
+    "total_count": 105,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-RedeCafuringa": {
-    "total_count": 141,
+    "total_count": 143,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-202562-T02-TSI-AutoPecas": {
-    "total_count": 37,
+    "total_count": 39,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1164,7 +1164,7 @@
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G1_ProjetoComercioEletronico_Entrega_03": {
-    "total_count": 4,
+    "total_count": 6,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1183,6 +1183,12 @@
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G6_ProjetoStreamingVideo_Entrega_03": {
     "total_count": 2,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_03": {
+    "total_count": 12,
     "adds": 0,
     "dels": 0,
     "commits": 0
