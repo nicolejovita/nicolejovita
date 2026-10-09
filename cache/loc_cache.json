@@ -948,10 +948,10 @@
     "commits": 114
   },
   "nicolejovita/nicolejovita": {
-    "total_count": 39,
-    "adds": 2094,
-    "dels": 335,
-    "commits": 39
+    "total_count": 40,
+    "adds": 2106,
+    "dels": 347,
+    "commits": 40
   },
   "UnBArqDsw2026-2-Turma01/RepositorioTemplateEntrega1": {
     "total_count": 34,
@@ -1038,7 +1038,7 @@
     "commits": 0
   },
   "giovannabrito19/storybook": {
-    "total_count": 85296,
+    "total_count": 88057,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1050,7 +1050,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-FutBoard": {
-    "total_count": 139,
+    "total_count": 152,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1062,7 +1062,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-IBRADA-NET": {
-    "total_count": 39,
+    "total_count": 40,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1074,7 +1074,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-RedeCafuringa": {
-    "total_count": 153,
+    "total_count": 163,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1164,13 +1164,13 @@
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G1_ProjetoComercioEletronico_Entrega_03": {
-    "total_count": 6,
+    "total_count": 9,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/RepositorioTemplateEntrega3-TabNews-Forum": {
-    "total_count": 2,
+    "total_count": 4,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1189,6 +1189,12 @@
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_03": {
     "total_count": 12,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnBArqDsw2026-2-Turma01/2026.2-T01-_G3_ProjetoPortalNoticias_Entrega_03": {
+    "total_count": 6,
     "adds": 0,
     "dels": 0,
     "commits": 0
