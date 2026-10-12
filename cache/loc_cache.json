@@ -948,10 +948,10 @@
     "commits": 114
   },
   "nicolejovita/nicolejovita": {
-    "total_count": 42,
-    "adds": 2136,
-    "dels": 371,
-    "commits": 42
+    "total_count": 43,
+    "adds": 2147,
+    "dels": 382,
+    "commits": 43
   },
   "UnBArqDsw2026-2-Turma01/RepositorioTemplateEntrega1": {
     "total_count": 34,
@@ -1014,7 +1014,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-MaesGuerreiras": {
-    "total_count": 65,
+    "total_count": 74,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1062,7 +1062,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-IBRADA-NET": {
-    "total_count": 40,
+    "total_count": 57,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1074,13 +1074,13 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-RedeCafuringa": {
-    "total_count": 171,
+    "total_count": 182,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-202562-T02-TSI-AutoPecas": {
-    "total_count": 40,
+    "total_count": 50,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1098,7 +1098,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-GameDuo": {
-    "total_count": 70,
+    "total_count": 73,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1195,6 +1195,12 @@
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G3_ProjetoPortalNoticias_Entrega_03": {
     "total_count": 6,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnBArqDsw2026-2-Turma01/2026.2-T01-G4_ProjetoJogo_Entrega_03": {
+    "total_count": 3,
     "adds": 0,
     "dels": 0,
     "commits": 0
