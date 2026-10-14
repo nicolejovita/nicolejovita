@@ -948,10 +948,10 @@
     "commits": 114
   },
   "nicolejovita/nicolejovita": {
-    "total_count": 44,
-    "adds": 2164,
-    "dels": 393,
-    "commits": 44
+    "total_count": 45,
+    "adds": 2184,
+    "dels": 413,
+    "commits": 45
   },
   "UnBArqDsw2026-2-Turma01/RepositorioTemplateEntrega1": {
     "total_count": 34,
@@ -1020,10 +1020,10 @@
     "commits": 0
   },
   "interpretador-c-unb/Compiladores1-equipe10": {
-    "total_count": 37,
-    "adds": 1251,
-    "dels": 1425,
-    "commits": 11
+    "total_count": 42,
+    "adds": 1535,
+    "dels": 1433,
+    "commits": 14
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01_G2_ProjetoForum": {
     "total_count": 159,
@@ -1044,7 +1044,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-DUOC-Finance": {
-    "total_count": 222,
+    "total_count": 226,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1068,7 +1068,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-ClinicaEscolaFBr": {
-    "total_count": 138,
+    "total_count": 139,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1080,7 +1080,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-202562-T02-TSI-AutoPecas": {
-    "total_count": 111,
+    "total_count": 115,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1092,7 +1092,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-SpaceJam": {
-    "total_count": 166,
+    "total_count": 187,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1170,7 +1170,7 @@
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/RepositorioTemplateEntrega3-TabNews-Forum": {
-    "total_count": 6,
+    "total_count": 16,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1188,7 +1188,7 @@
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_03": {
-    "total_count": 12,
+    "total_count": 14,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1201,6 +1201,12 @@
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-G4_ProjetoJogo_Entrega_03": {
     "total_count": 3,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnBArqDsw2026-2-Turma01/2026.2-T01-_G6_ProjetoStreamingVideo_SubEquipe02_Codigo": {
+    "total_count": 2,
     "adds": 0,
     "dels": 0,
     "commits": 0
