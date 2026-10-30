@@ -71,9 +71,9 @@ Additionally, I hold **English proficiency**, strengthened through an internatio
 
 <!-- START_SECTION:github_stats -->
 - **Repos:** 3 {Contributed: 14} | **Stars:** 0 | **Followers:** 4
-- **Commits:** 354 | **Merged PRs:** 21 | **Code Reviews:** 8
+- **Commits:** 355 | **Merged PRs:** 21 | **Code Reviews:** 8
 - **Issues:** 0 Open | 22 Closed
 - **Top Languages:** Python 41.2% | TypeScript 29.7% | HTML 10.4% | JavaScript 8.4% | CSS 3.1%
-- **Lines of Code on GitHub:** 20,034 (31,129++, 11,095--)
+- **Lines of Code on GitHub:** 20,034 (31,143++, 11,109--)
 - **Member since:** 1 yr, 11 mos
 <!-- END_SECTION:github_stats -->
