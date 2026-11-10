@@ -948,10 +948,10 @@
     "commits": 114
   },
   "nicolejovita/nicolejovita": {
-    "total_count": 71,
-    "adds": 2514,
-    "dels": 713,
-    "commits": 71
+    "total_count": 72,
+    "adds": 2524,
+    "dels": 723,
+    "commits": 72
   },
   "UnBArqDsw2026-2-Turma01/RepositorioTemplateEntrega1": {
     "total_count": 34,
@@ -1014,7 +1014,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-MaesGuerreiras": {
-    "total_count": 159,
+    "total_count": 161,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1050,7 +1050,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-FutBoard": {
-    "total_count": 204,
+    "total_count": 206,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1224,13 +1224,19 @@
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G6_ProjetoStreamingVideo_Entrega_04": {
-    "total_count": 1,
+    "total_count": 3,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G1_ProjetoComercioEletronico_Entrega_04": {
     "total_count": 1,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnBArqDsw2026-2-Turma01/2026.2-T01-_G6_ProjetoStreamingVideo_Entrega_04_Codigo": {
+    "total_count": 3,
     "adds": 0,
     "dels": 0,
     "commits": 0
