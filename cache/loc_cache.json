@@ -942,16 +942,16 @@
     "commits": 34
   },
   "DiProjOrcestra/GR7-Seguro": {
-    "total_count": 442,
+    "total_count": 443,
     "adds": 11012,
     "dels": 6448,
     "commits": 114
   },
   "nicolejovita/nicolejovita": {
-    "total_count": 73,
-    "adds": 2539,
-    "dels": 732,
-    "commits": 73
+    "total_count": 74,
+    "adds": 2551,
+    "dels": 744,
+    "commits": 74
   },
   "UnBArqDsw2026-2-Turma01/RepositorioTemplateEntrega1": {
     "total_count": 34,
@@ -1044,13 +1044,13 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-DUOC-Finance": {
-    "total_count": 284,
+    "total_count": 291,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-FutBoard": {
-    "total_count": 206,
+    "total_count": 210,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1074,7 +1074,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-RedeCafuringa": {
-    "total_count": 260,
+    "total_count": 581,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1086,10 +1086,10 @@
     "commits": 0
   },
   "FCTE-Qualidade-de-Software-1/2026-2_T02_KAY_MCNULTY": {
-    "total_count": 53,
-    "adds": 0,
-    "dels": 0,
-    "commits": 0
+    "total_count": 77,
+    "adds": 1,
+    "dels": 1,
+    "commits": 1
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-SpaceJam": {
     "total_count": 187,
@@ -1098,7 +1098,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-GameDuo": {
-    "total_count": 103,
+    "total_count": 109,
     "adds": 0,
     "dels": 0,
     "commits": 0
