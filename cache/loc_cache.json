@@ -948,10 +948,10 @@
     "commits": 114
   },
   "nicolejovita/nicolejovita": {
-    "total_count": 84,
-    "adds": 2699,
-    "dels": 886,
-    "commits": 84
+    "total_count": 85,
+    "adds": 2711,
+    "dels": 898,
+    "commits": 85
   },
   "UnBArqDsw2026-2-Turma01/RepositorioTemplateEntrega1": {
     "total_count": 34,
@@ -1086,7 +1086,7 @@
     "commits": 0
   },
   "FCTE-Qualidade-de-Software-1/2026-2_T02_KAY_MCNULTY": {
-    "total_count": 216,
+    "total_count": 249,
     "adds": 45767,
     "dels": 155,
     "commits": 8
@@ -1224,25 +1224,31 @@
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G6_ProjetoStreamingVideo_Entrega_04": {
-    "total_count": 54,
+    "total_count": 93,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G1_ProjetoComercioEletronico_Entrega_04": {
-    "total_count": 40,
+    "total_count": 61,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G6_ProjetoStreamingVideo_Entrega_04_Codigo": {
-    "total_count": 75,
+    "total_count": 112,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G3_ProjetoPortalNoticias_Entrega_04": {
-    "total_count": 57,
+    "total_count": 60,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnBArqDsw2026-2-Turma01/2026.2-T01_G2_ProjetoForum_Entrega4": {
+    "total_count": 16,
     "adds": 0,
     "dels": 0,
     "commits": 0
