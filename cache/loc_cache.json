@@ -36,7 +36,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/2021.2-DepBot": {
-    "total_count": 0,
+    "total_count": 200,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -948,10 +948,10 @@
     "commits": 114
   },
   "nicolejovita/nicolejovita": {
-    "total_count": 86,
-    "adds": 2729,
-    "dels": 910,
-    "commits": 86
+    "total_count": 87,
+    "adds": 2742,
+    "dels": 923,
+    "commits": 87
   },
   "UnBArqDsw2026-2-Turma01/RepositorioTemplateEntrega1": {
     "total_count": 34,
@@ -1044,7 +1044,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-DUOC-Finance": {
-    "total_count": 362,
+    "total_count": 426,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1080,16 +1080,16 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-202562-T02-TSI-AutoPecas": {
-    "total_count": 208,
+    "total_count": 220,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "FCTE-Qualidade-de-Software-1/2026-2_T02_KAY_MCNULTY": {
-    "total_count": 249,
-    "adds": 45767,
-    "dels": 155,
-    "commits": 8
+    "total_count": 272,
+    "adds": 52516,
+    "dels": 194,
+    "commits": 9
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-SpaceJam": {
     "total_count": 191,
